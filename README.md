@@ -12,7 +12,7 @@ Click [here](http://i6.cims.nyu.edu/~qfl201/drawing/assignment%202/index.html) t
 
 Originally by **Kelly Li** 
 
-Remixed by **Eileen Lee**
+Forked and remixed by **Eileen Lee**
 
 link to original repository: [here](https://github.com/qli108/assignment-4)
 

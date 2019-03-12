@@ -12,8 +12,6 @@
 		     	100%{transform: translateY(0px);}
     		}
 
-    	
-
 		    path {
 		      	animation-name: bounce;
 		      	animation-duration: 2s;
@@ -25,6 +23,8 @@
       			height: auto;
       			border: 3px solid #28275c;
     		}
+
+    		
 		</style>
 	</defs>
 
